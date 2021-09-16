@@ -1,0 +1,1 @@
+print('"Nexia", "Tico", \'Damas\' ko\'rganlar qilar havas')
