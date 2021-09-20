@@ -1,10 +1,12 @@
 
+#dars manzili : https://python.sariq.dev/shartlar/11-if-elif-else
+
 Amaliyot
 
 Quyidagi dasturlarni alohida fayllarga yozing va bajaring:
 
-#1 Foydalanuvchidan juft son kiritishni so'rang. Agar foydalanuvchi juft son kiritsa "Rahmat!", 
-agar toq son kiritsa "Bu son juft emas" degan xabarni chiqaring.
+#1 Foydalanuvchidan juft son kiritishni so'rang. Agar foydalanuvchi juft son kiritsa "Rahmat!",  agar toq son kiritsa "Bu son juft emas" 
+degan xabarni chiqaring.
 
 #2 Foydalanuvchi yoshini so'rang, va muzeyga kirish uchun chipta narhini quyidagicha chiqaring:
 Agar foydalanuvchi 4 yoshdan kichkina yoki 60 dan katta bo'lsa bepul
