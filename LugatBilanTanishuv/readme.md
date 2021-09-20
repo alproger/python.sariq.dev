@@ -1,3 +1,4 @@
+**_[Dars manzili](https://python.sariq.dev/dictionary/14-dictionary#)_**
 
 #**_AMALIYOT_**
 
