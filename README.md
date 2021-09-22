@@ -36,3 +36,5 @@
  [<h4>**#15 LUG'AT ELEMENTLARI BILAN ISHLASH**</h4>](https://python.sariq.dev/dictionary/15-dictionary-sets)
 
  [<h4>**#16 NESTING**</h4>](https://python.sariq.dev/dictionary/16-nesting)
+ 
+ 
