@@ -13,6 +13,6 @@ pyDict = {
     'type()'  : 'malumotning tipini aniqlaydi'
 }
 
-for key in sorted(pyDict) :
-    print(pyDict(key))
+for key in sorted(pyDict.keys()) :
+    print(f'{key} : {pyDict[key]}')
     
