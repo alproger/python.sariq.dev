@@ -2,7 +2,7 @@
 
 **<h2>Anvar Nazrullayev tomonidan tashkil etilgan python bo'yicha darslar davomida ishlagan masalalarim.</h2>**
 
-**<h3>#sayt mazili : https://python.sariq.dev/ </h3>**
+**<h3>#sayt mazili : [python.sariq.dev](https://python.sariq.dev/) </h3>**
 
 
  [<h4>**#01 KERAKLI DASTURLAR**</h4>](https://python.sariq.dev/ilk-qadamlar/01-software)
