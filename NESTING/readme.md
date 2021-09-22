@@ -21,3 +21,4 @@ Davlatlar degan lug'at yarating, lug'at ichida bir nechta davlatlar haqida ma'lu
 <h3>**#5**</h3>
 
 Yuqoridagi dasturga o'zgartirish kiriting: konsolga barcha davlatlarni emas, foydalanuvchi so'ragan davlat haqida ma'lumot bering. Agar davlat sizning lug'atingizda mavjud bo'lmasa, "Bizda bu davlat haqida ma'lumot yo'q" degan xabarni chiqaring.
+
