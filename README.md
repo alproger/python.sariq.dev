@@ -37,4 +37,4 @@
 
  [<h4>**#16 NESTING**</h4>](https://python.sariq.dev/dictionary/16-nesting)
  
- 
+ [<h4>**#17 WHILE TSIKLI**</h4>](https://python.sariq.dev/while/17-while-loop)
