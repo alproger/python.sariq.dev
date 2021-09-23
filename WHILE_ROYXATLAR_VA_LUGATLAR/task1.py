@@ -16,3 +16,4 @@ while True :
 print('buyurtmalaringiz ro\'yhati ')
 for buyurtma in buyurtmalar :
     print(buyurtma)
+

@@ -17,4 +17,4 @@ while True:
 for mahsulot, narx in ebozor.items():
     info = f'{mahsulot}ning narxi : {narx}'
     print(info)
-    
+
