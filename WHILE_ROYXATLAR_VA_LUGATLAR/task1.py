@@ -1,15 +1,18 @@
 
 buyurtmalar = []
 
+savol1 = 'buyurtma kiriting : '
+savol2 = 'yana buyurtma berasizmi ? (ha/yo\'q) '
 while True :
-
-    savol = 'buyurtma kiriting : '
-    buyurtma = input(savol)
     
-    savol += 'yana buyurtma kiritasizmi ? (ha/yo\'q)'
-    if buyurtma != 'yo\'q' :
-        buyurtmalar.append(buyurtma)
+    buyurtma = input(savol1)
+    buyurtmalar.append(buyurtma)
+    sorov = input(savol2)
 
-    else :
+    if sorov == 'yo\'q' :
         break
 
+    
+print('buyurtmalaringiz ro\'yhati ')
+for buyurtma in buyurtmalar :
+    print(buyurtma)
