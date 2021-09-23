@@ -16,8 +16,11 @@ Quyidagi dasturda bir nechta mantiqiy xatolar bor. Jumladan, xusisiy holatlarda 
 
 
  savol ="Kiritilgan sonning ildizini qaytaruvchi dastur.\n"
- savol += "Musbat son kiriting "
+ 
+savol += "Musbat son kiriting "
+
 savol += "(dasturni to'xtatish uchun 'exit' deb yozing): "
+
 while True:
     qiymat = input(savol)
     if qiymat<0:
