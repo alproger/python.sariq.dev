@@ -15,9 +15,9 @@ Yuqoridagi dasturni turli usullarda yozib ko'ring (break, ishora, yoki shart tek
 Quyidagi dasturda bir nechta mantiqiy xatolar bor. Jumladan, xusisiy holatlarda tsikl abadiy qaytarilib qolmoqda. Xatolarni to'g'rilay olasizmi?
 
 
-** __savol ="Kiritilgan sonning ildizini qaytaruvchi dastur.\n"
-**savol += "Musbat son kiriting "
-**savol += "(dasturni to'xtatish uchun 'exit' deb yozing): "
+ savol ="Kiritilgan sonning ildizini qaytaruvchi dastur.\n"
+ savol += "Musbat son kiriting "
+savol += "(dasturni to'xtatish uchun 'exit' deb yozing): "
 while True:
     qiymat = input(savol)
     if qiymat<0:
@@ -26,4 +26,4 @@ while True:
         break
     else:
         ildiz = float(qiymat)**(0.5)
-        print(f"{qiymat} ning ildizi {ildiz} ga teng")__ **
+        print(f"{qiymat} ning ildizi {ildiz} ga teng")
