@@ -6,13 +6,11 @@ while True:
 
     qiymat = input(savol)
 
-    if float(qiymat) < 0:
-    
-       continue
-    
-    elif qiymat=='Exit':
-    
+    if qiymat.title() == 'Exit':
         break
+
+    elif float(qiymat) < 0:
+       continue
     
     else:
     
