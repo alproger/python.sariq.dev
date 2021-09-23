@@ -1,4 +1,4 @@
-[**<h3>#18 WHILE, RO'YXATLAR VA LUG'ATLAR,</h3>**](https://python.sariq.dev/while/18-while-lists)
+[**<h3>#18 WHILE, RO'YXATLAR VA LUG'ATLAR</h3>**](https://python.sariq.dev/while/18-while-lists)
 
 **<h3>AMALIYOT</h3>**
 
