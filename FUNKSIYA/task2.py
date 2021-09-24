@@ -10,5 +10,5 @@ def daraja_oshir(qiymat):
 
 
 son = float(input(f"son kiriting : "))
-
 daraja_oshir(son)
+
