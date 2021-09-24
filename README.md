@@ -40,3 +40,6 @@
  [<h4>**#17 WHILE TSIKLI**</h4>](https://python.sariq.dev/while/17-while-loop)
  
  [<h4>**#18 WHILE, RO'YXATLAR VA LUG'ATLAR**</h4>](https://python.sariq.dev/while/18-while-lists)
+ 
+  [<h4>**#19 FUNKSIYA**</h4>](https://python.sariq.dev/function/19-function)
+
