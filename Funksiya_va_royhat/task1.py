@@ -1,17 +1,14 @@
 def katta_harf(royhat) :
     '''Ro'yhat qabul qilib ro'yhatdagi sozlarni bosh harfini 
      katta qilib beruvchi funksiya'''
-    Royhat = []
-    while royhat :
-        katta = royhat.pop
-        Royhat.append(katta.title())
+    katta = []
+    for matn in royhat :
+        katta.append(matn.title())
+    
+    return katta
 
-    Royhat = Royhat[-1:]
-    return Royhat
 
 ismlar = ['ali', 'vali', 'hasan', 'husan']
-
-katta_harf(ismlar)
-
+print(katta_harf(ismlar))
 print(ismlar)
          
