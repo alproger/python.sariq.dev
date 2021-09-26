@@ -47,7 +47,7 @@
  
  [<h4>**#21 FUNKSIYA VA RO'YXAT**</h4>](https://python.sariq.dev/function/21-funksiya-va-royxat)
  
-  [<h4>**#22 MOSLASHUVCHAN FUNKSIYA (*args, **kwargs)**</h4>](https://python.sariq.dev/function/22-flexible-functions)
+ [<h4>#22 MOSLASHUVCHAN FUNKSIYA (*args, **kwargs)</h4>](https://python.sariq.dev/function/22-flexible-functions)
 
  
  
