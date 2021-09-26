@@ -2,7 +2,7 @@
 
 **<h3>AMALIYOT</h3>**
 
-**<h4>#1<h4>**
+**<h4>#1<h4>** 
 Matnlardan iborat ro'yxat qabul qilib, ro'yxatdagi har bir matnning birinchi harfini katta harfga o'zgatiruvchi funksiya yozing. 
 
 ```
@@ -13,7 +13,7 @@ katta_harf(ismlar)
 print(ismlar) 
 ```
   
-**__Kutilgan natija: ['Ali', 'Vali', 'Hasan', 'Husan']__**
+**__Kutilgan natija:__** ['Ali', 'Vali', 'Hasan', 'Husan']
 
 **<h4>#2<h4>**
 Yuoqirdagi funksiyani asl ro'yxatni o'zgartirmaydigan va yangi ro'yxat qaytaradigan qilib o'zgartiring
@@ -33,7 +33,6 @@ print(yangi_ismlar)
 
 ['Ali', 'Vali', 'Hasan', 'Husan']
 
-**<h4>#3<h4>**
-  
+**<h4>#3<h4>** 
 Darsimiz davomida yozgan bahola funksiyasini .pop() metodidan foydalanmasdan va asl ro'yxatga o'zgartirish kiritmasdan
 faqat lug'at qaytaradigan qilib yozing.
