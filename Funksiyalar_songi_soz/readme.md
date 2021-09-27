@@ -1,6 +1,13 @@
 [<h2>#24 FUNKSIYALAR. SON'GSO'Z.</h2>](https://python.sariq.dev/function/24-lambda)
 
+
 **<h3>#Bu darsda amaliyot topshiriqlari berilmadi va men darsdagi malumotlar foydalanib dastur tuzib ko'raman </h3>**
+
+**#Savol Topingchi, quyidagi kod qanday vazifani bajaradi? *
+
+```
+list(filter(lambda meva:(meva.startswith('a') and meva.endswith('r')), mevalar))
+```
 
 **<h4>#1</h4>**
 **Quyidagi funkiyalarni lambda oraqli tuzing**
