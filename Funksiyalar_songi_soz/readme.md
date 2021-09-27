@@ -4,7 +4,6 @@
 
 **<h4>#1</h4>**
 **Quyidagi funkiyalarni lambda oraqli tuzing**
-*sonning istalgan n darajasini hisoblovchi funksiya
 
 *1.1 sonning istalgan n darajasini hisoblovchi funksiya*
 
