@@ -49,5 +49,6 @@
  
  [<h4>#22 MOSLASHUVCHAN FUNKSIYA (*args, **kwargs)</h4>](https://python.sariq.dev/function/22-flexible-functions)
 
- 
+ [<h4>#23 MODULLAR</h4>](https://python.sariq.dev/function/23-modules)
+
  
