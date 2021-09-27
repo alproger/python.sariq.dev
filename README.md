@@ -43,8 +43,12 @@
  
  [<h4>**#19 FUNKSIYA**</h4>](https://python.sariq.dev/function/19-function)
 
- [<h4>#20 QIYMAT QAYTARUVCHI FUNKSIYA</h4>](https://python.sariq.dev/function/20-qiymat-qaytarish)
+ [<h4>**#20 QIYMAT QAYTARUVCHI FUNKSIYA**</h4>](https://python.sariq.dev/function/20-qiymat-qaytarish)
  
- [<h4>#21 FUNKSIYA VA RO'YXAT</h4>](https://python.sariq.dev/function/21-funksiya-va-royxat)
+ [<h4>**#21 FUNKSIYA VA RO'YXAT**</h4>](https://python.sariq.dev/function/21-funksiya-va-royxat)
  
+ [<h4>#22 MOSLASHUVCHAN FUNKSIYA (*args, **kwargs)</h4>](https://python.sariq.dev/function/22-flexible-functions)
+
+ [<h4>#23 MODULLAR</h4>](https://python.sariq.dev/function/23-modules)
+
  
