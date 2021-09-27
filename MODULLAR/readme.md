@@ -4,3 +4,4 @@
 
 **<h4>#1</h4>** Bironta funksiya yasab uni boshqa modulga chaqirib ishlashini tekshirib ko'raman.(..)
 
+**<h4>#2</h4>** Random modulini ishlatib ko'raman (-_-) 
