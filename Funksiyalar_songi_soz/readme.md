@@ -25,4 +25,4 @@
 
 *3.1 sonlardan iborat ro'yhat elementlaridan faqat 2,3,4,5 bo'linadiganlarini aniqlaydigan funksiyalar*
 
-*3.2 matndan iborat ro'yhat elementlarini hammasi katta herf bilab boshlanganlarini aniqlaydigan funksiya*
+*3.2 matndan iborat ro'yhat elementlarini hammasi katta harf bilab boshlanganlarini aniqlaydigan funksiya*
