@@ -3,12 +3,22 @@
 
 **<h3>#Bu darsda amaliyot topshiriqlari berilmadi va men darsdagi malumotlar foydalanib dastur tuzib ko'raman </h3>**
 
-**#Savol Topingchi, quyidagi kod qanday vazifani bajaradi? *
+**<h3>Savol Topingchi, quyidagi kod qanday vazifani bajaradi?</h3>**
 
 ```
+mevalar = ['olma','anor','anjir','shaftoli',"o'rik","tarvuz","qovun","banan"]
+
 list(filter(lambda meva:(meva.startswith('a') and meva.endswith('r')), mevalar))
 ```
 
+**<h3>Javob Bu dastur bosh harfi a va oxirgi harfi r bilan tugagan mevani mevalar ro'yhatidan qabul qiladi </h3>**
+
+**natija**
+
+```
+['anor', 'anjir']
+```
+  
 **<h4>#1</h4>**
 **Quyidagi funkiyalarni lambda oraqli tuzing**
 
