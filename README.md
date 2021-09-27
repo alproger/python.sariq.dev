@@ -51,4 +51,7 @@
 
  [<h4>#23 MODULLAR</h4>](https://python.sariq.dev/function/23-modules)
 
+ [<h4>#24 FUNKSIYALAR. SON'GSO'Z.</h4>](https://python.sariq.dev/function/24-lambda)
+
+
  
