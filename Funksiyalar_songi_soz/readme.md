@@ -7,11 +7,11 @@
 *sonning istalgan n darajasini hisoblovchi funksiya
 *sonning juft ekanligini aniqlovchi funksiya
 *sonning toq ekanligini aniqlovchi funksiya
-*3 ta royhatni bir-biriga qo'shuvchi funksiya
+*2 ta royhatni bir-biriga birlashtiruvchi funksiya
 
 **<h4>#2</h4>**
 **Quyidagi funkiyalarni lambda va map oraqli tuzing**
-*ro'yhat elementlarini darajasini oshiruvchi funksiya
+*ro'yhat elementlarini darajasini kubga oshiruvchi funksiya
 *ro'yhatdagi matnli elementlarn uchun title(), upper(), lower() va boshqa metodlarni qo'llash
 
 **<h4>#3</h4>**
