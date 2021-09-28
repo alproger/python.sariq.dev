@@ -52,6 +52,15 @@
  [<h4>#23 MODULLAR</h4>](https://python.sariq.dev/function/23-modules)
 
  [<h4>#24 FUNKSIYALAR. SON'GSO'Z.</h4>](https://python.sariq.dev/function/24-lambda)
+ 
+ [<h4>#25 "SON TOPISH" O'YINI</h4>](https://python.sariq.dev/amaliyot/25-guess-the-number)
+
+ [<h4>#26 "SO'Z TOPISH" O'YINI</h4>](https://python.sariq.dev/amaliyot/26-guess-the-word)
+ 
+ 
+
+
+
 
 
  
