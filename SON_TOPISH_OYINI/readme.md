@@ -5,7 +5,7 @@
 **<h4>foydalanuvchi oylagan son ham shu oraliqda bo'lishi kerak. O'yin g'olibi kim kam taxmin bilan raqamni topsa yutadi</h4>**
 
 
-**findNumGame.py** bu asosiy finksiyalar
+**findNumGame.py** ---> bu asosiy funksiyalar joylashgan kod 
 
 
-**playGame,py** bu o'yinni boshlash
+**playGame,py** ----> bu o'yinni boshlash va sinab ko'rish uchun kod
