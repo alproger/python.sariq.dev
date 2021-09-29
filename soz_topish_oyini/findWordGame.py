@@ -12,35 +12,45 @@ def findWord():
     print('Salom so\'z top o\'yiniga hush kelibsiz')
     word = randomWord()
     print(f'Men {len(word)} harfli so\'z o\'yladim topib ko\'ring')
-
-    temp = '-' * len(word)
-    print(temp)
-    word_list = []
-
-    for w in word :
-        word_list.append(w)
     
+    saveWord = word    
+    newWord = ''
     index = 0
-    while True:
-        harf = input('harf kiriting : ')
 
-        if harf in word_list :
-            index = word_list.index(harf)
-            temp[index] = 'harf'    
+    wordlist = list(len(word) * '-')
+    inputedWords = []
+
+    count = 0
+
+    while True :
+        for w in wordlist :
+            print(w, end='')
         
-        else : 
-            print('topolmadingiz qayta kiriting')
+        word_input = input('\n\nharf kiriting : ')
+        count += 1
+
+        inputedWords.append(word_input)
+        inputed = ''.join([str(element) for element in inputedWords])
+        print(f'\nsiz kiritgan harflar : {inputed}')
+        
+        if word_input in word :
+            newWord += word_input
+            index = word.find(word_input)
+            
+            wordlist.insert(index, word_input)
+            
+            del wordlist[index+1]
+            
+            word = word.replace(word_input, ' ', 1)
+        
+
+        if saveWord == newWord :
+            result = f'\nso\'z "{newWord}" edi \nSiz {count} ta urunishda so\'zni topdingiz'
+            print(result)
+            break
 
 
 def play():
     '''O'yinni boshlash uchun asosiy funksiya hech qanday qiymat 
     qabul qilaydi chaqirishingiz bilan o'yinni boshlaydi.'''
     findWord()
-
-    
-
-word = 'salom'
-
-word[1] = 'o'
-
-print(word)
