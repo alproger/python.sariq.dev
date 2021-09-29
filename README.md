@@ -56,7 +56,9 @@
  [<h4>#25 "SON TOPISH" O'YINI</h4>](https://python.sariq.dev/amaliyot/25-guess-the-number)
 
  [<h4>#26 "SO'Z TOPISH" O'YINI</h4>](https://python.sariq.dev/amaliyot/26-guess-the-word)
- 
+
+ [<h4>#27 KIRILL-LOTIN TELEGRAM BOT</h4>](https://python.sariq.dev/amaliyot/27-cyr2lat-bot)
+
  
 
 
