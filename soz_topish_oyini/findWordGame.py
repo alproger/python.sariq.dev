@@ -34,15 +34,14 @@ def findWord():
         print(f'\nsiz kiritgan harflar : {inputed}')
         
         if word_input in word :
-            newWord += word_input
             index = word.find(word_input)
-            
             wordlist.insert(index, word_input)
-            
+            newWord = ''.join([str(elem) for elem in wordlist])
             del wordlist[index+1]
             
             word = word.replace(word_input, ' ', 1)
         
+        newWord = newWord.replace('-','')
 
         if saveWord == newWord :
             result = f'\nso\'z "{newWord}" edi \nSiz {count} ta urunishda so\'zni topdingiz'
