@@ -59,6 +59,8 @@
 
  [<h4>#27 KIRILL-LOTIN TELEGRAM BOT</h4>](https://python.sariq.dev/amaliyot/27-cyr2lat-bot)
 
+ [<h4>#28 KLASSLAR</h4>](https://python.sariq.dev/oop/28-klasslar)
+
  
 
 
