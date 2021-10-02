@@ -1,6 +1,8 @@
-[<h2><h2>]()
+[<h2>#29 OBYKETLAR BILAN ISHLASH<h2>](https://python.sariq.dev/oop/29-obyektlar-bilan-ishlash)
+
 
 **<h3>AMALIYOT</h3>**
+<hr>
 
 **<h4>#1</h4>**
 Avto degan yangi klass yarating. Unga avtomobillarga doir bo'lgan bir nechta xususiyatlar (model, rang, korobka, narh va hokazo) qo'shing. Ayrim xususiyatlarga standart qiymat bering (masalan, kilometer=0)
