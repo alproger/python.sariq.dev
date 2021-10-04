@@ -34,14 +34,6 @@ class Professor(Shaxs):
         self.talim_manzili = talim_manzili
         self.shogirdlari_soni = shogirdlari_soni
         self.kitoblari = kitoblari
-    
-    def get_info(self):
-        '''professor klasiga tegishli obyektning malumotini qaytaruvchi funksiya'''
-        info = f'Professor {self.ism} {self.familya} {self.t_yil}-yilda tug\'ulgan '
-        info += f'{self.talim_manzili}da dars beradi {self.shogirdlari_soni} ta shogirdlari bor '
-        info += f'{self.kitoblari} kitoblarini yozgan'
-
-        return info
 
 class Foydalanuvchi(Shaxs):
     '''sayt foydalanuvchilarini malumotlari qayta ishlash uchun klass'''
@@ -50,20 +42,4 @@ class Foydalanuvchi(Shaxs):
         self.login = login
         self.parol = parol
     
-    def get_info(self):
-        '''foydalanuvchi klasiga tegishli obyektning malumotini qaytaruvchi funksiya'''
-        info = f'Foydalanuvchi {self.ism} {self.familya} {self.t_yil}-yilda tug\'ulgan '
-        info += f'passporti {self.passport}, logini : {self.login}, paroli : {self.parol} '
 
-        return info
-
-ism = 'Anvar'
-familya = 'Nazrullayev'
-passport = 'AA131434'
-tyil = 1985
-
-professor1 = Professor(ism, familya, passport, tyil, 'Python Dasturlash', 'I.T Unoversitedi', 100000, 'Python')
-print(professor1.get_info())
-
-foydalanuvchi1 = Foydalanuvchi(ism, familya, passport, tyil, 'ababab', '1234')
-print(foydalanuvchi1.get_info())
