@@ -35,4 +35,11 @@ class Talaba(Shaxs):
         self.talabaId = talabaId
         self.fanlar = []
 
+    def get_univer(self):
+        '''Talaba klasiga tegishli obyektning universitet malumotini qaytaradi'''
+        return self.unversitet
+
+    def get_studentId(self):
+        '''talaba klasiga tegishli obyektning studentId malumotini qaytaradi'''
+        return self.talabaId
         
