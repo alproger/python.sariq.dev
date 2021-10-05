@@ -64,6 +64,10 @@
  [<h4>#29 OBYKETLAR BILAN ISHLASH</h4>](https://python.sariq.dev/oop/29-obyektlar-bilan-ishlash)
 
  [<h4>#30 VORISLIK VA POLIMORFIZM</h4>](https://python.sariq.dev/oop/30-vorislik-polimorfizm)
+ 
+ [<h4>#31 INKAPSULYATSIA, KLASSNING XUSUSIYAT VA METODLARI</h4>](https://python.sariq.dev/oop/31-encapsulation)
+
+
 
 
  
