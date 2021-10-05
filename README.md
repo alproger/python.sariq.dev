@@ -66,7 +66,8 @@
  [<h4>#30 VORISLIK VA POLIMORFIZM</h4>](https://python.sariq.dev/oop/30-vorislik-polimorfizm)
  
  [<h4>#31 INKAPSULYATSIA, KLASSNING XUSUSIYAT VA METODLARI</h4>](https://python.sariq.dev/oop/31-encapsulation)
-
+ 
+ [<h4>#32 DUNDER METODLAR</h4>](https://python.sariq.dev/oop/32-dunder-metodlar)
 
 
 
