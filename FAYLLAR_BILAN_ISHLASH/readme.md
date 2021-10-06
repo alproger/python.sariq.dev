@@ -7,5 +7,13 @@
 <hr>
 <br>
 
+**<h4>#2</h4>** Quyidagi pi_milion_digits.txt faylni yuklab oling 
+<hr>
+<br>
+
+**<h4>#3</h4>** Sizning tug'ulgan kuningiz pi soni tarkibida uchraydimi yoki yo'q ekanligini aniqlovchi funksiya yozing. Misol uchun  tug'ulgan sanangiz 25-Fevral 2000-yil bo'lsa 25022000 ketma-ketligi yuqoridagi fmatnda uchraydimi yo'q topng.  
+<hr>
+<br>
+
 
 
