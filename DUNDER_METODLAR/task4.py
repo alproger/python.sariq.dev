@@ -103,15 +103,17 @@ class Fan:
     def __sub__(self, talaba):
         '''fandan talabani id orqali topib o'chirib tashlovchi metod'''
         
-        for student in self.talabalar:
-            student_id = student.get_studentId()
-            passport = student.get_passport()
+        if isinstance(talaba, Talaba):
             
-            if student_id ==  talaba.get_studentId()  or passport == talaba.get_passport() :
-                self.talabalar.remove(talaba)
+            for student in self.talabalar:
+                student_id = student.get_studentId()
+                passport = student.get_passport()
+            
+                if student_id ==  talaba.get_studentId()  or passport == talaba.get_passport() :
+                    self.talabalar.remove(talaba)
 
-            else :
-                print('Bunday talaba mavjud emas')
+                else :
+                    print('Bunday talaba mavjud emas')
 
 talaba1 = Talaba('Sarvar', 'Zokirov', 'AA121313123', 1999, 'T.A.T.U', 'T0001')
 talaba2 = Talaba('Ali', 'Valiyev', 'AA1423423', 1998, 'FarDU', 'T0002')
