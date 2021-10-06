@@ -34,11 +34,11 @@ class Talaba(Shaxs):
 
     def __call__(self):
         '''talaba klasiga tegishli obyektni chaqirganda ishga tushadi'''
-        return f'Talaba : {self.ism} {self.familya}'
+        return f'{self.unversitet}ning {self.__kurs}-bosqich talabasi {self.ism} {self.familya}'
     
     def __repr__(self):
         '''Talaba klasi obyekti haqida qisqa malumot qaytaradi'''
-        return f'{self.unversitet}ning {self.__kurs}-bosqich talabasi {self.ism} {self.familya}'
+        return  f'Talaba : {self.ism} {self.familya}'
 
     @classmethod
     def get_talabalar_soni(cls):
