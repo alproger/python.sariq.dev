@@ -1,0 +1,19 @@
+Bugungi darsda biz pythonda fayllar bilan ishlashni o'rgandik. Faylni hafsiz ochish uchun biz
+with open('fayl nomi') ass file :
+    text = file.read()
+orqali ochamiz va fayl ichidagi bor malumotni text o'zgaruvchisiga yuklab olishimiz mumkin.
+
+Faylni yozish uchun ochish uchun biz : 
+with open('fayl nomi', 'w') ass file :
+    file.write('malumot')
+bunda biz fayl ochib unga malumot yozdik. Faqat bunday metod orqali yozishda biz yozmoqchi bo'lgan 
+fayldagi malumotlar o'chib ketadi. Shuning uchun fayl ichidagi malumotni o'chirmasdan daylga yozish uchun biz
+open('fayl nomi, 'a') yani 'w' ni 'a' ga o'zgartirishimiz kerak. Yana biz pickle metodi bilan tanishdik bu metod faylga turli xil lug'at va ro'yhatlarni yozish va olsihga mo'ljallangan
+
+import pickle
+
+with open('info','wb') as file:
+    pickle.dump(talaba1,file)
+    pickle.dump(talaba2,file)
+
+bunda biz pickle ga yozish uchun pickle.dumb va oqish uchun pickle.load() dan foydlanamiz
