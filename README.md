@@ -71,7 +71,7 @@
 
  [<h4>#33 FAYLLAR BILAN ISHLASH</h4>](https://python.sariq.dev/files-exceptions/33-files)
 
- [<h4>#JSON</h4>](https://python.sariq.dev/files-exceptions/34-json)
+ [<h4>#34 JSON</h4>](https://python.sariq.dev/files-exceptions/34-json)
 
  
 
