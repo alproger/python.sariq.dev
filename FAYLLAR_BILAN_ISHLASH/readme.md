@@ -15,5 +15,9 @@
 <hr>
 <br>
 
+**<h4>#4</h4>** Fayl ichidagi matn tipini float tipiga o'tkazing va pickle yordamida yangi faylga yozing
+<hr>
+<br>
+
 
 
