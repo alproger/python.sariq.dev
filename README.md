@@ -69,7 +69,9 @@
  
  [<h4>#32 DUNDER METODLAR</h4>](https://python.sariq.dev/oop/32-dunder-metodlar)
 
+ [<h4>#33 FAYLLAR BILAN ISHLASH</h4>](https://python.sariq.dev/files-exceptions/33-files)
 
+ [<h4></h4>]()
 
  
 
