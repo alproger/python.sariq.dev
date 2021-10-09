@@ -15,5 +15,5 @@
 **<h4>#3</h4>** Yuqoridagi ikki o'zgaruvchini alohida JSON fayllarga saqlang.
 <hr>
 
-**<h4>#4</h4>** Quyidagi JSON faylni yuklab oling. Faylda 3 ta talabaning ism va familiyasi saqlangan. Ularning har birini alohida qatordan "Ism Familiya, n-kurs, Fakultet talabasi" ko'rinishida konsolga chiqaring. 
+**<h4>#4</h4>** Quyidagi JSON faylni yuklab oling. Faylda 3 ta talabaning ism va familiyasi saqlangan. Ularning har birini alohida qatordan "Ism Familiya, n-kurs, Fakultet talabasi" ko'rinishida konsolga chiqaring. [<h4>students.json<h4>](https://github.com/alproger/python.sariq.dev/blob/main/JSON/students.json)
 <hr>
