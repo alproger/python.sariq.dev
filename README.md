@@ -75,7 +75,10 @@
 
  [<h4>#35 XATOLAR BILAN ISHLASH</h4>](https://python.sariq.dev/files-exceptions/35-xatolar)
   
- [<h4># 36 FUNKSIYANI TEKSHIRISH</h4>](https://python.sariq.dev/testing/36-function-test)
+ [<h4>#36 FUNKSIYANI TEKSHIRISH</h4>](https://python.sariq.dev/testing/36-function-test)
+ 
+ [<h4>#37 KLASSNI TEKSHIRISH</h4>](https://python.sariq.dev/testing/37-klass-test)
+
 
 
 
