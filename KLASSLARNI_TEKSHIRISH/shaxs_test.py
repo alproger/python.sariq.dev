@@ -1,4 +1,3 @@
-from logging import info
 import unittest
 from shaxs_talaba import Shaxs
 

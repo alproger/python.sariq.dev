@@ -34,12 +34,13 @@ class Shaxs:
 class Talaba(Shaxs):
     '''shaxs klasidan nasl olgan talaba klasi. Bu klass talabalarning malumotlari bilan ishlash uchun'''
 
-    def __init__(self, ism, familya, passport, t_yil, universitet, talabaId):
+    def __init__(self, ism, familya, passport, t_yil, universitet, talabaId, course = 1):
         '''Talaba klasining hususiyatlarini saqlovchi funksiya'''
         super().__init__(ism, familya, passport, t_yil)
         self.unversitet = universitet
         self.talabaId = talabaId
-        self.fanlar = []
+        self.cours = course
+
 
     def get_univer(self):
         '''Talaba klasiga tegishli obyektning universitet malumotini qaytaradi'''
@@ -49,8 +50,15 @@ class Talaba(Shaxs):
         '''talaba klasiga tegishli obyektning studentId malumotini qaytaradi'''
         return self.talabaId
     
-    def fanga_yozil(self, fan):
-        '''talaba klasiga tegishli obyektga fan yozuchi funksiya'''
-        self.fanlar.append(fan)
+    def get_cours(self):
+        '''talabaning kursni qaytaradi'''
+        return self.cours
+    
+    def add_cours(self):
+        '''talabaning kursini 1 ta kursga oshiradi'''
+        self.cours += 1
+        return self.cours
+        
+
 
     
