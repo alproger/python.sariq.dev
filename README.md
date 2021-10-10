@@ -73,7 +73,10 @@
 
  [<h4>#34 JSON</h4>](https://python.sariq.dev/files-exceptions/34-json)
 
-  [<h4>#35 XATOLAR BILAN ISHLASH</h4>](https://python.sariq.dev/files-exceptions/35-xatolar)
+ [<h4>#35 XATOLAR BILAN ISHLASH</h4>](https://python.sariq.dev/files-exceptions/35-xatolar)
+  
+ [<h4># 36 FUNKSIYANI TEKSHIRISH</h4>](https://python.sariq.dev/testing/36-function-test)
+
 
 
 
