@@ -9,5 +9,5 @@
 <h3 align = center style = "color : red;" >Amaliyot</h3>
 
 * 30-darsimizda Shaxs va Talaba klasslarini yaratgan edik. Shu ikki klassning xususiyatlari va metodlarini tekshiruvchi test dasturlar yozing. 
-* Ikki klass uchun yagona test yoza olasizmi? (isInstance() funksiyasini eslang)
+* Ikki klass uchun yagona test yoza olasizmi? (isInstance() funksiyasini eslang) 
 <hr>
