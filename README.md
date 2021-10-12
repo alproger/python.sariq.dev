@@ -81,7 +81,9 @@
  
  [<h4>#38 PYTHON STANDART KUTUBXONASI</h4>](https://python.sariq.dev/last-words/38-python-library)
  
- [<h4>#38 PYTHON STANDART KUTUBXONASI</h4>](https://python.sariq.dev/last-words/38-python-library)
+ [<h4>#39 PIP VA TASHQI KUTUBXONALAR</h4>](https://python.sariq.dev/last-words/39-pip-pypi)
+
+ [<h4>#40 SO'NGSO'Z VA KEYINGI QADAMLAR</h4>](https://python.sariq.dev/last-words/40-the-end)
 
 
 
