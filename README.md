@@ -81,7 +81,7 @@
  
  [<h4>#38 PYTHON STANDART KUTUBXONASI</h4>](https://python.sariq.dev/last-words/38-python-library)
  
- [<h4></h4>]()
+ [<h4>#38 PYTHON STANDART KUTUBXONASI</h4>](https://python.sariq.dev/last-words/38-python-library)
 
 
 
