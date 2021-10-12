@@ -78,6 +78,13 @@
  [<h4>#36 FUNKSIYANI TEKSHIRISH</h4>](https://python.sariq.dev/testing/36-function-test)
  
  [<h4>#37 KLASSNI TEKSHIRISH</h4>](https://python.sariq.dev/testing/37-klass-test)
+ 
+ [<h4>#38 PYTHON STANDART KUTUBXONASI</h4>](https://python.sariq.dev/last-words/38-python-library)
+ 
+ [<h4>#39 PIP VA TASHQI KUTUBXONALAR</h4>](https://python.sariq.dev/last-words/39-pip-pypi)
+
+ [<h4>#40 SO'NGSO'Z VA KEYINGI QADAMLAR</h4>](https://python.sariq.dev/last-words/40-the-end)
+
 
 
 
