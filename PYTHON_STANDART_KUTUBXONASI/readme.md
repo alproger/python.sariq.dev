@@ -1,4 +1,4 @@
- [<h2>#39 PIP VA TASHQI KUTUBXONALAR</h2>](https://python.sariq.dev/last-words/39-pip-pypi)
+ [<h2>#38 PYTHON STANDART KUTUBXONASI</h2>](https://python.sariq.dev/last-words/39-pip-pypi)
 
 <h3 align = center>AMALIYOT</h3>
 <hr>
