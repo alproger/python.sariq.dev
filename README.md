@@ -85,7 +85,7 @@
 
  [<h4>#40 SO'NGSO'Z VA KEYINGI QADAMLAR</h4>](https://python.sariq.dev/last-words/40-the-end)
 
- [<h4>#JUMBOQ</h4>](https://www.youtube.com/watch?v=VwluCqwHHN8&list=PLwsopmzfbOn9Lw5D7a26THpBDgAma1Sus&index=50)
+ [<h4>#JUMBOQ!</h4>](https://www.youtube.com/watch?v=VwluCqwHHN8&list=PLwsopmzfbOn9Lw5D7a26THpBDgAma1Sus&index=50)
 
 []()
 
